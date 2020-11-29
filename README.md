@@ -1,1 +1,1 @@
-# lorem-link
+# Lorem Page
